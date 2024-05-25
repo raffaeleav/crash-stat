@@ -17,7 +17,7 @@
 
 ## About
   Uno script R sviluppato come progetto per l'insegnamento di Calcolo della Probabilità Statistica e Matematica, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
-  L'obiettivo di questo progetto è di riassumere tutti i concetti cardine relativi al calcolo della probabilità statistica e applicarli ad un insieme di dati che rappresenta un contesto reale: il numero di 
+  L'obiettivo di questo progetto è di riassumere tutti i concetti cardine relativi al calcolo della probabilità statistica e applicarli ad un insieme di dati che rappresenta un fenomeno reale: il numero di 
   veicoli coinvolti in incidenti stradali in Italia. Lo script (eseguito nell'IDE [RStudio](https://posit.co/download/rstudio-desktop/)) permette di analizzare in maniera capillare i dati relativi al fenomeno in esame.
 
 
@@ -40,4 +40,4 @@ I dati utilizzati nello script R sono stati estratti l'11/06/2022 01:47 UTC (GMT
 
 
 ## Built with
-- [R]([https://www.oracle.com/it/java/technologies/downloads/](https://www.r-project.org/)) - per l'implementazione .
+- [R](https://www.r-project.org/) - per l'implementazione degli indici statistici e diagrammi.
