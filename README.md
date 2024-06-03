@@ -16,8 +16,7 @@
 
 
 ## About
-  Crash Stat è uno script R sviluppato come progetto per l'insegnamento di Calcolo della Probabilità Statistica e Matematica, del corso di Laurea in Informatica dell'Università degli Studi di Salerno.
-  L'obiettivo di questo progetto è di riassumere tutti i concetti cardine relativi al calcolo della probabilità statistica e applicarli ad un insieme di dati che rappresenta un fenomeno reale: il numero di 
+  Crash Stat è stato sviluppato con l'obiettivo di riassumere tutti i concetti cardine relativi al calcolo della probabilità statistica e applicarli ad un insieme di dati che rappresenta un fenomeno reale: il numero di 
   veicoli coinvolti in incidenti stradali in Italia. Lo script (eseguito nell'IDE [RStudio](https://posit.co/download/rstudio-desktop/)) permette di analizzare in maniera capillare i dati relativi al fenomeno in esame.
 
 
