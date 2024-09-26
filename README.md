@@ -38,4 +38,4 @@ The data used in the R script was extracted on June 11, 2022, at 01:47 UTC (GMT)
 
 
 ## Built with
-- [R](https://www.r-project.org/) - to apply the statistical indices and visualize the data through diagrams
+- [R](https://www.r-project.org/) - used for calculating statistical indices and visualizing the data through diagrams
