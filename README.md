@@ -8,14 +8,14 @@
 
 
 ## Table of Contents
-- [About](#About)
+- [Overview](#Overview)
 - [Preview](#Preview)
 - [Features](#Features)
 - [Sources](#Sources)
 - [Built with](#Built-with)
 
 
-## About
+## Overview
   Crash Stat was developed to apply key concepts from Statistical and Mathematical Probability Calculation to a real-life scenario: analyzing the number of car crashes in Italy. The script allows for data analysis using the most important statistical indices.
 
 
