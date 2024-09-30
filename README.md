@@ -12,6 +12,7 @@
 - [Preview](#Preview)
 - [Features](#Features)
 - [Sources](#Sources)
+- [How to replicate](#How-to-replicate)
 - [Built with](#Built-with)
 
 
@@ -35,6 +36,22 @@
 
 ## Sources 
 The data used in the R script was extracted on June 11, 2022, at 01:47 UTC (GMT) from the [Istat](https://www.istat.it/) website
+
+
+## How to replicate
+1) Clone the repository
+```bash
+git clone https://github.com/raffaeleav/crash-stat.git
+```
+2) Switch to the project directory
+```bash
+cd crash-stat
+```
+3) Run the script in RStudio
+4) Alternatively, you can run the script using Rscript (the diagrams will be saved in the Rplots.pdf file)
+```bash
+Rscript crash-stat.R
+```
 
 
 ## Built with
