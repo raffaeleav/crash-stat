@@ -48,7 +48,10 @@ git clone https://github.com/raffaeleav/crash-stat.git
 cd crash-stat
 ```
 3) Run the script in RStudio
-4) Alternatively, you can run the script using Rscript (the diagrams will be saved in the Rplots.pdf file)
+```bash
+open -a Rstudio crash-stat.R
+```
+5) Alternatively, you can run the script using Rscript (the diagrams will be saved in the Rplots.pdf file)
 ```bash
 Rscript crash-stat.R
 ```
