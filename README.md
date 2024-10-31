@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/raffaeleav/crash-stat/assets/114619463/c76b7500-ac62-4b39-b920-ef1f5a57380e" width="256" heigth="256">
+  <img src="https://github.com/user-attachments/assets/b8276054-906f-4d14-a03d-f6e450a6a7c0" width="512" heigth="120">
 </p>
+
 
 <p align="center">
    An R script developed as a project for the Calcolo della Probabilità Statistica e Matematica (Statistical and Mathematical Probability Calculation) course, part of the Computer Science Bachelor's Degree program at the University of Salerno 
